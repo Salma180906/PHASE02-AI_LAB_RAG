@@ -1,0 +1,23 @@
+# Termination Clause
+Either party may terminate this agreement with 30 days written notice.
+Immediate termination is allowed in case of breach of contract.
+
+# Force Majeure Clause
+Neither party shall be liable for delays caused by natural disasters,
+government actions, or events beyond reasonable control.
+
+# Confidentiality Clause
+All proprietary information must remain confidential.
+Confidentiality obligations continue even after contract termination.
+
+# Payment Terms
+Payments must be made within 30 days of invoice.
+Late payments may incur a 5% penalty fee.
+
+# Dispute Resolution
+All disputes shall first be resolved through mediation.
+If unresolved, arbitration will take place in Chennai.
+
+# Intellectual Property
+All developed software remains property of the company.
+Clients receive usage rights but not ownership.

@@ -1,0 +1,34 @@
+# Ticket 101 - Login Failure
+User unable to login due to expired password.
+Resolution: Reset password and clear browser cache.
+Preventive Action: Enable password expiry reminder emails.
+
+# Ticket 102 - Payment Failed
+Payment declined due to insufficient funds.
+Resolution: Ask user to verify bank balance.
+Alternative: Suggest alternate payment method.
+
+# Ticket 103 - Slow Application
+Application loading slowly during peak hours.
+Resolution: Increased server capacity.
+Monitoring added to track performance spikes.
+
+# Ticket 104 - Email Not Received
+User did not receive verification email.
+Resolution: Resend email and check spam folder.
+Ensure correct email address is registered.
+
+# Ticket 105 - Account Locked
+Multiple incorrect password attempts caused lock.
+Resolution: Unlock account after identity verification.
+Enable account unlock via OTP.
+
+# Ticket 106 - Data Sync Issue
+User data not syncing between devices.
+Resolution: Clear cache and re-login.
+Ensure latest app version is installed.
+
+# Ticket 107 - App Crash
+Mobile app crashes on startup.
+Resolution: Reinstall application.
+Issue fixed in version 3.2 update.
